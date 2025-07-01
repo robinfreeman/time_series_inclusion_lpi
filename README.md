@@ -1,0 +1,3 @@
+Code for performing the analysis for 'Maximising time-series inclusion reduces geographic and taxonomic biases in the Living Planet Index.' submitted as a Matters Arising to Nature Communications in response to Toszogyova et al (2024) Mathematical biases in the calculation of the Living Planet Index lead to overestimation of vertebrate population decline https://doi.org/10.1038/s41467-024-49070-x
+Code files are run in sequence from 1-6
+Data set provided is the non-confidential data ("lpi_data_no_conf" in 1_apply_remove_zeroes.R) so that these results can be reproduced. Confidential data can be anonymised and shared on request
