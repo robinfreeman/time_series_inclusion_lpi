@@ -1,4 +1,4 @@
-# Introducion 
+# Introduction 
 Code for performing the analysis for '_Maximising time-series inclusion reduces geographic and taxonomic biases in the Living Planet Index._' submitted as a Matters Arising to Nature Communications in response to Toszogyova et al (2024) _Mathematical biases in the calculation of the Living Planet Index lead to overestimation of vertebrate population decline_ https://doi.org/10.1038/s41467-024-49070-x. 
 
 Also submitted to a preprint server: McRae L, Marconi V, Deinet S, Freeman R (2025) https://doi.org/10.32942/X2M33C.
